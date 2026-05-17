@@ -1,0 +1,1134 @@
+a1	a1
+a5	a5
+ai1	ai1
+ai2	ai2
+ai3	ai3
+ai4	ai4
+an1	a1 n
+an3	a3 n
+an4	a4 n
+ang1	a1 ng
+ang2	a2 ng
+ang4	a4 ng
+ao1	ao1
+ao2	ao2
+ao3	ao3
+ao4	ao4
+ba1	b a1
+ba2	b a2
+ba3	b a3
+ba4	b a4
+ba5	b a5
+bai1	b ai1
+bai2	b ai2
+bai3	b ai3
+bai4	b ai4
+ban3	b a3 n
+ban1	b a1 n
+ban4	b a4 n
+bang1	b a1 ng
+bang3	b a3 ng
+bang4	b a4 ng
+bao1	b ao1
+bao2	b ao2
+bao3	b ao3
+bao4	b ao4
+bei1	b ei1
+bei3	b ei3
+bei4	b ei4
+bei5	b ei5
+ben1	b e1 n
+ben3	b e3 n
+ben4	b e4 n
+beng1	b e1 ng
+beng2	b e2 ng
+beng4	b e4 ng
+bi1	b i1
+bi2	b i2
+bi3	b i3
+bi4	b i4
+bian1	b ia1 n
+bian3	b ia3 n
+bian4	b ia4 n
+biao1	b iao1
+bie1	b ie1
+biao3	b iao3
+bie2	b ie2
+bie3	b ie3
+bin1	b i1 n
+bin4	b i4 n
+bing1	b i1 ng
+bing3	b i3 ng
+bing4	b i4 ng
+bo1	b o1
+bo2	b o2
+bo3	b o3
+bu3	b u3
+bo5	b o5
+bu4	b u4
+cai1	c ai1
+cai2	c ai2
+ca1	c a1
+cai3	c ai3
+cai4	c ai4
+can1	c a1 n
+can2	c a2 n
+can3	c a3 n
+can4	c a4 n
+cang1	c a1 ng
+cang2	c a2 ng
+cao1	c ao1
+cao2	c ao2
+cao3	c ao3
+ce4	c e4
+ceng2	c e2 ng
+ceng4	c e4 ng
+cha1	ch a1
+cha2	ch a2
+cha3	ch a3
+chai1	ch ai1
+chai2	ch ai2
+cha4	ch a4
+chan1	ch a1 n
+chan2	ch a2 n
+chan3	ch a3 n
+chan4	ch a4 n
+chang1	ch a1 ng
+chang2	ch a2 ng
+chang3	ch a3 ng
+chang4	ch a4 ng
+chao1	ch ao1
+chao2	ch ao2
+chao3	ch ao3
+che1	ch e1
+che3	ch e3
+che4	ch e4
+chen1	ch e1 n
+chen2	ch e2 n
+chen4	ch e4 n
+cheng1	ch e1 ng
+cheng2	ch e2 ng
+cheng3	ch e3 ng
+cheng4	ch e4 ng
+chi1	ch ii1
+chi2	ch ii2
+chi3	ch ii3
+chi4	ch ii4
+chong1	ch o1 ng
+chong3	ch o3 ng
+chong2	ch o2 ng
+chou1	ch ou1
+chou2	ch ou2
+chou3	ch ou3
+chou4	ch ou4
+chu1	ch u1
+chu2	ch u2
+chu3	ch u3
+chu4	ch u4
+chuai1	ch uai1
+chuai4	ch uai4
+chuan1	ch ua1 n
+chuan2	ch ua2 n
+chuan3	ch ua3 n
+chuan4	ch ua4 n
+chuang1	ch ua1 ng
+chuang2	ch ua2 ng
+chuang3	ch ua3 ng
+chui1	ch uei1
+chuang4	ch ua4 ng
+chui2	ch uei2
+chun1	ch ue1 n
+chun2	ch ue2 n
+chun3	ch ue3 n
+chuo1	ch uo1
+chuo4	ch uo4
+ci1	c ii1
+ci2	c ii2
+ci3	c ii3
+ci4	c ii4
+cong1	c o1 ng
+cong2	c o2 ng
+cou4	c ou4
+cu1	c u1
+cu4	c u4
+cuan1	c ua1 n
+cuan4	c ua4 n
+cui1	c uei1
+cui3	c uei3
+cui4	c uei4
+cun1	c ue1 n
+cun2	c ue2 n
+cun4	c ue4 n
+cuo1	c uo1
+cuo2	c uo2
+cuo4	c uo4
+da1	d a1
+da2	d a2
+da3	d a3
+da4	d a4
+dai1	d ai1
+dai3	d ai3
+dai4	d ai4
+dan1	d a1 n
+dan3	d a3 n
+dan4	d a4 n
+dang1	d a1 ng
+dang3	d a3 ng
+dang4	d a4 ng
+dao1	d ao1
+dao3	d ao3
+dao4	d ao4
+de2	d e2
+de5	d e5
+deng1	d e1 ng
+deng3	d e3 ng
+deng4	d e4 ng
+di1	d i1
+di2	d i2
+di3	d i3
+di4	d i4
+dian1	d ia1 n
+dian3	d ia3 n
+dian4	d ia4 n
+diao1	d iao1
+diao4	d iao4
+die1	d ie1
+die2	d ie2
+ding1	d i1 ng
+ding3	d i3 ng
+ding4	d i4 ng
+diu1	d iu1
+dong1	d o1 ng
+dong3	d o3 ng
+dong4	d o4 ng
+dou1	d ou1
+dou3	d ou3
+dou4	d ou4
+du1	d u1
+du2	d u2
+du3	d u3
+du4	d u4
+duan1	d ua1 n
+duan3	d ua3 n
+duan4	d ua4 n
+dui1	d uei1
+dui4	d uei4
+dun1	d ue1 n
+dun3	d ue3 n
+dun4	d ue4 n
+duo1	d uo1
+duo3	d uo3
+duo2	d uo2
+duo4	d uo4
+e1	e1
+e4	e4
+e2	e2
+ei2	ei2
+en1	e1 n
+en4	e4 n
+er2	e2 r
+er3	e3 r
+er4	e4 r
+fa1	f a1
+fa2	f a2
+fan1	f a1 n
+fa3	f a3
+fan2	f a2 n
+fan3	f a3 n
+fan4	f a4 n
+fang3	f a3 ng
+fang4	f a4 ng
+fang1	f a1 ng
+fang2	f a2 ng
+fei1	f ei1
+fei3	f ei3
+fei2	f ei2
+fei4	f ei4
+fen1	f e1 n
+fen2	f e2 n
+fen4	f e4 n
+fen3	f e3 n
+feng2	f e2 ng
+feng1	f e1 ng
+feng3	f e3 ng
+feng4	f e4 ng
+hu3	h u3
+lian4	l ia4 n
+pao1	p ao1
+shuang3	sh ua3 ng
+yi4	i4
+fou3	f ou3
+fu1	f u1
+fu2	f u2
+fu4	f u4
+fu3	f u3
+huan2	h ua2 n
+lin2	l i2 n
+peng2	p e2 ng
+ga1	g a1
+song3	s o3 ng
+yong1	io1 ng
+ga4	g a4
+gai1	g ai1
+gai3	g ai3
+gai4	g ai4
+hui1	h uei1
+liu2	l iu2
+gan1	g a1 n
+piao1	p iao1
+yuan2	va2 n
+suan4	s ua4 n
+gan4	g a4 n
+gang1	g a1 ng
+gan3	g a3 n
+gang3	g a3 ng
+hun4	h ue4 n
+lou3	l ou3
+gao1	g ao1
+za3	z a3
+pin3	p i3 n
+gao3	g ao3
+sun1	s ue1 n
+ge1	g e1
+ge2	g e2
+gao4	g ao4
+luan3	l ua3 n
+ji2	j i2
+zao3	z ao3
+ge4	g e4
+gen1	g e1 n
+pu1	p u1
+tai2	t ai2
+geng3	g e3 ng
+geng1	g e1 ng
+lv2	l v2
+gei3	g ei3
+jian1	j ia1 n
+zhai1	zh ai1
+geng4	g e4 ng
+gong3	g o3 ng
+qia1	q ia1
+tang4	t a4 ng
+gou1	g ou1
+gong4	g o4 ng
+ma2	m a2
+gong1	g o1 ng
+jiao3	j iao3
+zhao1	zh ao1
+gou3	g ou3
+gu1	g u1
+qiao1	q iao1
+ti3	t i3
+gu4	g u4
+gu3	g u3
+mai4	m ai4
+gou4	g ou4
+jin4	j i4 n
+zhen4	zh e4 n
+gua1	g ua1
+gua4	g ua4
+qin3	q i3 n
+tie1	t ie1
+guai3	g uai3
+guai1	g uai1
+mao3	m ao3
+gua3	g ua3
+jiu3	j iu3
+zhou2	zh ou2
+guai4	g uai4
+guan3	g ua3 n
+qu4	q v4
+tou1	t ou1
+guan4	g ua4 n
+guang1	g ua1 ng
+men4	m e4 n
+guan1	g ua1 n
+juan1	j va1 n
+zhuan3	zh ua3 n
+guang3	g ua3 ng
+gui1	g uei1
+ran2	r a2 n
+tui3	t uei3
+gui4	g uei4
+gui3	g uei3
+mi4	m i4
+guang4	g ua4 ng
+jun4	j v4 n
+zi3	z ii3
+gun3	g ue3 n
+gun4	g ue4 n
+rao4	r ao4
+wa3	ua3
+guo3	g uo3
+guo2	g uo2
+miao2	m iao2
+guo1	g uo1
+kan4	k a4 n
+zu3	z u3
+guo4	g uo4
+ha1	h a1
+rong1	r o1 ng
+rong1	r o2 ng
+rong1	r o3 ng
+wang1	ua1 ng
+hai2	h ai2
+hai1	h ai1
+ming4	m i4 ng
+ha2	h a2
+ke1	k e1
+hai4	h ai4
+hai3	h ai3
+rui4	r uei4
+han3	h a3 n
+wen3	ue3 n
+han2	h a2 n
+han1	h a1 n
+mou3	m ou3
+kong1	k o1 ng
+hang2	h a2 ng
+han4	h a4 n
+hao4	h ao4
+san3	s a3 n
+hao2	h ao2
+hao1	h ao1
+wu4	u4
+na4	n a4
+ku3	k u3
+he4	h e4
+hao3	h ao3
+hen2	h e2 n
+sen1	s e1 n
+he2	h e2
+he1	h e1
+xian2	x ia2 n
+nao2	n ao2
+kuai4	k uai4
+heng1	h e1 ng
+hei1	h ei1
+hong1	h o1 ng
+shai1	sh ai1
+hen4	h e4 n
+hen3	h e3 n
+xiao4	x iao4
+nei4	n ei4
+kui1	k uei1
+hou2	h ou2
+hu1	h u1
+heng2	h e2 ng
+shao1	sh ao1
+hong2	h o2 ng
+hong3	h o3 ng
+xiong1	x io1 ng
+nian1	n ia1 n
+kuo4	k uo4
+hu4	h u4
+huai2	h uai2
+hou3	h ou3
+shen1	sh e1 n
+hou4	h ou4
+hu2	h u2
+xuan2	x va2 n
+niang4	n ia4 ng
+lan3	l a3 n
+huai4	h uai4
+huang1	h ua1 ng
+hua1	h ua1
+shi1	sh ii1
+hua4	h ua4
+hua2	h ua2
+ya3	ia3
+ning2	n i2 ng
+lao1	l ao1
+huang2	h ua2 ng
+hui3	h uei3
+huan1	h ua1 n
+shu3	sh u3
+huan4	h ua4 n
+huan3	h ua3 n
+yang3	ia3 ng
+nong4	n o4 ng
+le5	l e5
+hun1	h ue1 n
+huo4	h uo4
+huang3	h ua3 ng
+shuan1	sh ua1 n
+hui2	h uei2
+hui4	h uei4
+yi2	i2
+nuo2	n uo2
+lei5	l ei1 i5
+lei5	l ei3 i5
+lei5	l ei4 i5
+lei5	l ei2 i1 i5
+lei5	l ei2 i5
+lei5	l uei5
+lei5	l ei5
+huo3	h uo3
+jia1	j ia1
+hun2	h ue2 n
+shuo4	sh uo4
+huo1	h uo1
+huo2	h uo2
+ying4	i4 ng
+o2	o2
+lia3	l ia3
+ji4	j i4
+jiang1	j ia1 ng
+ji1	j i1
+sou4	s ou4
+ji3	j i3
+jia3	j ia3
+yu2	v2
+pai1	p ai1
+jian4	j ia4 n
+liao4	l iao4
+jie1	j ie1
+jia4	j ia4
+sui4	s uei4
+jian3	j ia3 n
+jiang3	j ia3 ng
+yun2	v2 n
+pang2	p a2 ng
+jiao4	j iao4
+ling2	l i2 ng
+jin3	j i3 n
+jiang4	j ia4 ng
+ta4	t a4
+jiao1	j iao1
+jie4	j ie4
+zan4	z a4 n
+pei4	p ei4
+jin1	j i1 n
+lou2	l ou2
+jiu1	j iu1
+jie2	j ie2
+tang2	t a2 ng
+jie3	j ie3
+jing4	j i4 ng
+zeng4	z e4 ng
+pi2	p i2
+jiong3	j io3 ng
+lu3	l u3
+ju4	j v4
+jing3	j i3 ng
+ti1	t i1
+jing1	j i1 ng
+ju1	j v1
+zhang1	zh a1 ng
+piao4	p iao4
+ju2	j v2
+lun4	l ue4 n
+jun1	j v1 n
+jiu4	j iu4
+tiao3	t iao3
+ju3	j v3
+jue2	j ve2
+zhen1	zh e1 n
+po2	p o2
+juan4	j va4 n
+lv4	l v4
+kan1	k a1 n
+juan3	j va3 n
+tong2	t o2 ng
+jue1	j ve1
+kai3	k ai3
+zhong1	zh o1 ng
+qi1	q i1
+ka3	k a3
+mai2	m ai2
+kao3	k ao3
+ka1	k a1
+tu2	t u2
+kai1	k ai1
+kang2	k a2 ng
+zhu4	zh u4
+qian3	q ia3 n
+kang1	k a1 ng
+man4	m a4 n
+ke3	k e3
+tuo2	t uo2
+kan3	k a3 n
+kang4	k a4 ng
+ken3	k e3 n
+zhun1	zh ue1 n
+qie3	q ie3
+ke2	k e2
+mei3	m ei3
+kou3	k ou3
+wai4	uai4
+kao4	k ao4
+ke4	k e4
+ku1	k u1
+zou3	z ou3
+qing2	q i2 ng
+kong3	k o3 ng
+meng3	m e3 ng
+kuan1	k ua1 n
+wang3	ua3 ng
+keng1	k e1 ng
+kong4	k o4 ng
+kua4	k ua4
+zuo2	z uo2
+qu2	q v2
+ku4	k u4
+mian2	m ia2 n
+kui2	k uei2
+wen1	ue1 n
+kou4	k ou4
+kua1	k ua1
+kuang4	k ua4 ng
+que4	q ve4
+kuang2	k ua2 ng
+miao4	m iao4
+la1	l a1
+wu3	u3
+kua3	k ua3
+kuang1	k ua1 ng
+kui4	k uei4
+rao3	r ao3
+kun1	k ue1 n
+mo2	m o2
+lang1	l a1 ng
+xian1	x ia1 n
+kuan3	k ua3 n
+kun4	k ue4 n
+la3	l a3
+rong2	r o2 ng
+la4	l a4
+lao3	l ao3
+n2	n
+xiao2	x iao2
+kun3	k ue3 n
+lai2	l ai2
+lai4	l ai4
+run4	r ue4 n
+lan2	l a2 n
+lei1	l ei1
+nan3	n a3 n
+xing2	x i2 ng
+la5	l a5
+lang2	l a2 ng
+lang4	l a4 ng
+sang3	s a3 ng
+lang3	l a3 ng
+leng3	l e3 ng
+neng2	n e2 ng
+xu3	x v3
+lan4	l a4 n
+lao4	l ao4
+lei2	l ei2
+seng1	s e1 ng
+le1	l e1
+li4	l i4
+nian3	n ia3 n
+xun1	x v1 n
+lao2	l ao2
+lei3	l ei3
+li1	l i1
+shan3	sh a3 n
+leng4	l e4 ng
+liang3	l ia3 ng
+nie1	n ie1
+yan2	ia2 n
+le4	l e4
+li3	l i3
+liang4	l ia4 ng
+she2	sh e2
+lian2	l ia2 n
+lin1	l i1 n
+niu1	n iu1
+yao3	iao3
+lei4	l ei4
+liang2	l ia2 ng
+lin3	l i3 n
+sheng3	sh e3 ng
+lie3	l ie3
+liu1	l iu1
+nu3	n u3
+yin3	i3 n
+li2	l i2
+lie4	l ie4
+liu3	l iu3
+shou4	sh ou4
+ling3	l i3 ng
+lou4	l ou4
+o1	o1
+you1	iou1
+lian3	l ia3 n
+ling4	l i4 ng
+lu1	l u1
+shuai4	sh uai4
+liu4	l iu4
+luan4	l ua4 n
+pa4	p a4
+yuan3	va3 n
+liao2	l iao2
+long2	l o2 ng
+luo4	l uo4
+shuo1	sh uo1
+lu4	l u4
+ma1	m a1
+pang1	p a1 ng
+zai1	z ai1
+lin4	l i4 n
+luan2	l ua2 n
+ma5	m a5
+su2	s u2
+luo2	l uo2
+man2	m a2 n
+pei1	p ei1
+zao4	z ao4
+long3	l o3 ng
+lv3	l v3
+mao2	m ao2
+suo1	s uo1
+ma4	m a4
+me5	m e5
+pi1	p i1
+zha3	zh a3
+lu2	l u2
+ma3	m a3
+men2	m e2 n
+tan3	t a3 n
+mang2	m a2 ng
+meng4	m e4 ng
+pian4	p ia4 n
+zhang3	zh a3 ng
+lun2	l ue2 n
+mao1	m ao1
+mi3	m i3
+teng2	t e2 ng
+mei4	m ei4
+miao1	m iao1
+pin1	p i1 n
+zhe5	zh e5
+lve4	l ve4
+mei2	m ei2
+mie4	m ie4
+tiao2	t iao2
+mi2	m i2
+ming2	m i2 ng
+po1	p o1
+zhi4	zh ii4
+mai3	m ai3
+meng2	m e2 ng
+mo4	m o4
+tong3	t o3 ng
+mian4	m ia4 n
+mu4	m u4
+qi2	q i2
+zhu3	zh u3
+man3	m a3 n
+mian3	m ia3 n
+nai3	n ai3
+tui1	t uei1
+min3	m i3 n
+nan2	n a2 n
+qian4	q ia4 n
+zhuang4	zh ua4 ng
+mao4	m ao4
+min2	m i2 n
+nao4	n ao4
+wa2	ua2
+mo3	m o3
+nen4	n e4 n
+qiao4	q iao4
+zong1	z o1 ng
+men5	m e5 n
+mou2	m ou2
+ni4	n i4
+wan4	ua4 n
+na2	n a2
+nian2	n ia2 n
+qing4	q i4 ng
+zui3	z uei3
+mi1	m i1
+na3	n a3
+niao4	n iao4
+wen2	ue2 n
+nang1	n a1 ng
+nin2	n i2 n
+quan1	q va1 n
+miao3	m iao3
+nang2	n a2 ng
+nong2	n o2 ng
+wu2	u2
+ne5	n e5
+nu2	n u2
+ran3	r a3 n
+mo1	m o1
+nei3	n ei3
+nv3	n v3
+xia4	x ia4
+ni2	n i2
+nve4	n ve4
+ren4	r e4 n
+mu3	m u3
+ni3	n i3
+ou4	ou4
+xiao1	x iao1
+nian4	n ia4 n
+pa2	p a2
+ru3	r u3
+nai4	n ai4
+niang2	n ia2 ng
+pai2	p ai2
+xin4	x i4 n
+nie4	n ie4
+pan2	p a2 n
+sai4	s ai4
+nao3	n ao3
+ning4	n i4 ng
+pang3	p a3 ng
+xiu4	x iu4
+niu3	n iu3
+pao3	p ao3
+se4	s e4
+ni1	n i1
+nu4	n u4
+pen1	p e1 n
+xuan3	x va3 n
+nuan3	n ua3 n
+peng3	p e3 ng
+shan1	sh a1 n
+niao3	n iao3
+ou3	ou3
+pi4	p i4
+xun2	x v2 n
+ou1	ou1
+piao3	p iao3
+she1	sh e1
+niu2	n iu2
+pan1	p a1 n
+pin2	p i2 n
+yang1	ia1 ng
+pai4	p ai4
+ping2	p i2 ng
+sheng2	sh e2 ng
+nuo4	n uo4
+pao4	p ao4
+po3	p o3
+ye3	ie3
+pang4	p a4 ng
+pu3	p u3
+shou1	sh ou1
+pa1	p a1
+peng1	p e1 ng
+pu4	p u4
+ying1	i1 ng
+pei2	p ei2
+qia4	q ia4
+shua3	sh ua3
+pan4	p a4 n
+pi3	p i3
+qian1	q ia1 n
+you3	iou3
+peng4	p e4 ng
+qiao2	q iao2
+shui3	sh uei3
+pao2	p ao2
+pie1	p ie1
+qiang3	q ia3 ng
+yue4	ve4
+piao2	p iao2
+qin4	q i4 n
+song4	s o4 ng
+pen2	p e2 n
+pou1	p ou1
+qin1	q i1 n
+zan2	z a2 n
+ping1	p i1 ng
+qu3	q v3
+sui2	s uei2
+pian1	p ia1 n
+qi4	q i4
+qiong2	q io2 ng
+zei2	z ei2
+pu2	p u2
+qun2	q v2 n
+ta3	t a3
+pin4	p i4 n
+qiang2	q ia2 ng
+quan3	q va3 n
+zhai3	zh ai3
+qian2	q ia2 n
+re4	r e4
+tang1	t a1 ng
+po4	p o4
+qin2	q i2 n
+rang2	r a2 ng
+zhao4	zh ao4
+qiao3	q iao3
+rou4	r ou4
+tao2	t ao2
+qi3	q i3
+qiu1	q iu1
+ren3	r e3 n
+zheng1	zh e1 ng
+qing1	q i1 ng
+sa3	s a3
+tian2	t ia2 n
+qiang1	q ia1 ng
+que1	q ve1
+ri4	r ii4
+zhou1	zh ou1
+qiu2	q iu2
+sang4	s a4 ng
+ting2	t i2 ng
+qie4	q ie4
+rao2	r ao2
+ru4	r u4
+zhuan1	zh ua1 n
+quan2	q va2 n
+sha3	sh a3
+tou4	t ou4
+qing3	q i3 ng
+ren2	r e2 n
+sa4	s a4
+zi1	z ii1
+rang4	r a4 ng
+shang3	sh a3 ng
+tun1	t ue1 n
+qu1	q v1
+rou2	r ou2
+san1	s a1 n
+zu2	z u2
+reng1	r e1 ng
+she3	sh e3
+wa4	ua4
+quan4	q va4 n
+sa1	s a1
+sao3	s ao3
+ru2	r u2
+sheng1	sh e1 ng
+wang2	ua2 ng
+rang3	r a3 ng
+sao1	s ao1
+shai4	sh ai4
+ruo4	r uo4
+shi3	sh ii3
+wen4	ue4 n
+re3	r e3
+sha4	sh a4
+shao4	sh ao4
+sang1	s a1 ng
+shu2	sh u2
+xi1	x i1
+reng2	r e2 ng
+shang4	sh a4 ng
+shen2	sh e2 n
+sha2	sh a2
+shuang1	sh ua1 ng
+xian4	x ia4 n
+ruan3	r ua3 n
+she4	sh e4
+shang1	sh a1 ng
+shi4	sh ii4
+si3	s ii3
+xie1	x ie1
+sai1	s ai1
+sheng4	sh e4 ng
+shao2	sh ao2
+shu4	sh u4
+su4	s u4
+xing4	x i4 ng
+san4	s a4 n
+shou3	sh ou3
+shen3	sh e3 n
+shuan4	sh ua4 n
+suo5	s uo5
+xuan1	x va1 n
+sha1	sh a1
+shuai1	sh uai1
+shi2	sh ii2
+si1	s ii1
+tan1	t a1 n
+ya1	ia1
+shan4	sh a4 n
+shun4	sh ue4 n
+shu1	sh u1
+su1	s u1
+tao1	t ao1
+yang2	ia2 ng
+shao3	sh ao3
+sou1	s ou1
+shuai3	sh uai3
+sun3	s ue3 n
+ti2	t i2
+ye2	ie2
+shen4	sh e4 n
+sui3	s uei3
+shui4	sh uei4
+tai4	t ai4
+tiao4	t iao4
+yin4	i4 n
+shi5	sh ii5
+tai1	t ai1
+song1	s o1 ng
+tao3	t ao3
+tong4	t o4 ng
+you4	iou4
+shua1	sh ua1
+tang3	t a3 ng
+suan1	s ua1 n
+tian1	t ia1 n
+tui2	t uei2
+yue1	ve1
+shui2	sh uei2
+ti4	t i4
+suo3	s uo3
+tie3	t ie3
+wa1	ua1
+zan3	z a3 n
+si4	s ii4
+ting1	t i1 ng
+tan2	t a2 n
+tou2	t ou2
+wan3	ua3 n
+zen3	z e3 n
+sui1	s uei1
+tu1	t u1
+tao4	t ao4
+tuan2	t ua2 n
+wei4	uei4
+zhai4	zh ai4
+ta1	t a1
+tui4	t uei4
+tiao1	t iao1
+tuo3	t uo3
+wu1	u1
+zhe1	zh e1
+tan4	t a4 n
+tuo4	t uo4
+ting3	t i3 ng
+wai1	uai1
+xi3	x i3
+zhi2	zh ii2
+te4	t e4
+wan1	ua1 n
+tu3	t u3
+wei1	uei1
+xiang3	x ia3 ng
+zhu2	zh u2
+tian3	t ia3 n
+wang4	ua4 ng
+tun2	t ue2 n
+wo1	uo1
+xin1	x i1 n
+zhui4	zh uei4
+tong1	t o1 ng
+wo3	uo3
+wa5	ua5
+xi4	x i4
+xiu3	x iu3
+zong3	z o3 ng
+tu4	t u4
+xia2	x ia2
+wei2	uei2
+xiang1	x ia1 ng
+xue1	x ve1
+zui4	z uei4
+tuo1	t uo1
+xiang4	x ia4 ng
+weng1	ue1 ng
+xie4	x ie4
+xun4	x v4 n
+wan2	ua2 n
+xie2	x ie2
+xia1	x ia1
+xiu1	x iu1
+yan3	ia3 n
+wei3	uei3
+xing3	x i3 ng
+xiang2	x ia2 ng
+xuan4	x va4 n
+yao4	iao4
+wo4	uo4
+xu2	x v2
+xie3	x ie3
+ya2	ia2
+yin2	i2 n
+xi2	x i2
+xue4	x ve4
+xiong2	x io2 ng
+yan4	ia4 n
+yong4	io4 ng
+xian3	x ia3 n
+yan1	ia1 n
+xu4	x v4
+ye1	ie1
+yu3	v3
+xiao3	x iao3
+yao2	iao2
+xue2	x ve2
+yin1	i1 n
+yun4	v4 n
+xing1	x i1 ng
+yi3	i3
+ya5	ia5
+yong3	io3 ng
+zang4	z a4 ng
+xu1	x v1
+yao1	iao1
+yuan1	va1 n
+zha1	zh a1
+xue3	x ve3
+yu4	v4
+yi1	i1
+za2	z a2
+zhan4	zh a4 n
+ya4	ia4
+yun3	v3 n
+ying3	i3 ng
+zao1	z ao1
+zhe4	zh e4
+yang4	ia4 ng
+zang1	z a1 ng
+yu1	v1
+zha2	zh a2
+zhi3	zh ii3
+ye4	ie4
+zeng1	z e1 ng
+yun1	v1 n
+zhan3	zh a3 n
+zhu1	zh u1
+ying2	i2 ng
+zhan1	zh a1 n
+zai4	z ai4
+zhe2	zh e2
+zhui1	zh uei1
+you2	iou2
+zhe3	zh e3
+zhi1	zh ii1
+ze2	z e2
+zi5	z ii5
+yuan4	va4 n
+zheng4	zh e4 ng
+zhou4	zh ou4
+zhai2	zh ai2
+zuan4	z ua4 n
+zai3	z ai3
+zhong4	zh o4 ng
+zhuang1	zh ua1 ng
+zhao3	zh ao3
+zao2	z ao2
+zhua1	zh ua1
+zi4	z ii4
+zheng3	zh e3 ng
+zha4	zh a4
+zhun3	zh ue3 n
+zuan1	z ua1 n
+zhou3	zh ou3
+zhang4	zh a4 ng
+zong4	z o4 ng
+zhuan4	zh ua4 n
+zhen3	zh e3 n
+zun1	z ue1 n
+zhuo2	zh uo2
+zhong3	zh o3 ng
+zu1	z u1
+zhuai1	zh uai1
+zuo4	z uo4
+zhuo1	zh uo1
+zou4	z ou4
+zuo3	z uo3
