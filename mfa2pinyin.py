@@ -427,6 +427,58 @@ PINYIN_LABELS_BY_TOKEN = {
 }
 
 
+MANDARIN_INITIALS = (
+    "zh",
+    "ch",
+    "sh",
+    "b",
+    "p",
+    "m",
+    "f",
+    "d",
+    "t",
+    "n",
+    "l",
+    "g",
+    "k",
+    "h",
+    "j",
+    "q",
+    "x",
+    "r",
+    "z",
+    "c",
+    "s",
+    "y",
+    "w",
+)
+
+
+def pinyin_labels_for_token(token: str) -> tuple[str, ...]:
+    """Return initial/final pinyin labels for a single token."""
+    built_in = PINYIN_LABELS_BY_TOKEN.get(token)
+    if built_in is not None:
+        return built_in
+
+    from pypinyin import Style, lazy_pinyin
+
+    syllables = lazy_pinyin(token, style=Style.TONE3, neutral_tone_with_five=True, errors="default")
+    labels: list[str] = []
+    for syllable in syllables:
+        if not syllable or syllable == token:
+            labels.append(token)
+            continue
+        initial = next((item for item in MANDARIN_INITIALS if syllable.startswith(item)), "")
+        if initial:
+            labels.append(initial)
+            final = syllable[len(initial) :]
+            if final:
+                labels.append(final)
+        else:
+            labels.append(syllable)
+    return tuple(labels)
+
+
 def tier_block(text: str, *names: str) -> str:
     """Return the full TextGrid item block for the first matching IntervalTier name."""
     for name in names:
@@ -577,12 +629,7 @@ def pinyin_intervals_from_words(words: list[dict[str, object]]) -> list[dict[str
         word_label = str(word["text"])
         if not word_label:
             continue
-        labels = PINYIN_LABELS_BY_TOKEN.get(word_label)
-        if labels is None:
-            raise ValueError(
-                f"No built-in pinyin labels for token {word_label!r}. "
-                "Pass --pinyin-input PATH with a pinyin_phones tier to provide labels."
-            )
+        labels = pinyin_labels_for_token(word_label)
         xmin = float(word["fxmin"])
         xmax = float(word["fxmax"])
         step = (xmax - xmin) / len(labels)
